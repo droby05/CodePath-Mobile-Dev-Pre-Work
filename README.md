@@ -9,14 +9,14 @@ The goal of this app is to change either the text color or the background color.
 
 
 ### Required User Stories
-`[x] 1. User sees custom text in a label - Hello from {name}!
+[x] 1. User sees custom text in a label - Hello from {name}!
 
 [x] 2. User sees custom backgroun color.
 
-[x] 3. User can tap a button to change the text color of the label.`
+[x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-`[x] 1. User can tap a button to change the color of the background view.
+[x] 1. User can tap a button to change the color of the background view.
 
 [ ] 2. User can tap a button to change the text  string of the label - Android is Awesome!
 
@@ -28,4 +28,4 @@ The goal of this app is to change either the text color or the background color.
    
    [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
    
-   [ ] c. If the text field is empty, update label with default text string.`
+   [ ] c. If the text field is empty, update label with default text string.

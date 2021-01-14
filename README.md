@@ -5,7 +5,7 @@
 The goal of this app is to change either the text color or the background color. There are two buttons and their purpose is labeled accordingly. After pressing the button, the only way to reset the app at this time is to run the app again.
 
 ### App Walk-through
- <img src=“https://media4.giphy.com/media/P56XcZyKZaMkNgOmve/giphy.gif”>
+ <img src="https://media4.giphy.com/media/P56XcZyKZaMkNgOmve/giphy.gif">
 
 
 
